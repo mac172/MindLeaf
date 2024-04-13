@@ -6,7 +6,7 @@ import { Meteors } from "./ui/Meteors";
 export function SparklesPreview() {
   return (
     <div>
-    <div className="md:h-[40rem] h-[22rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
+    <div className="md:h-[33rem] h-[22rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
       <h1 className="md:text-7xl text-5xl lg:text-9xl font-bold text-center text-white relative z-20">
         MindLeaf
       </h1>

@@ -6,5 +6,10 @@ MindLeaf is an open source project that helps you learn to code. Giving you prop
 `;
 
 export function TextGenerateEffectDemo() {
-  return <TextGenerateEffect words={words} />;
+  return (
+    <div>
+        <TextGenerateEffect words={words} />
+    </div>
+  )
+//   return <TextGenerateEffect words={words} />;
 }
