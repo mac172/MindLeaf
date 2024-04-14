@@ -1,6 +1,6 @@
 ---
 title: 'Hello, Python'
-status: 'published'
+status: 'draft'
 author:
   name: 'Mac'
   picture: 'https://avatars.githubusercontent.com/u/94794314?v=4'
