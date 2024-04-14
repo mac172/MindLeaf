@@ -1,3 +1,5 @@
+import Footer from "../Footer"
+
 export function NewsLatter() {
     return (
         <div>
@@ -9,7 +11,7 @@ export function NewsLatter() {
         </h2>
 
         <p className="mx-auto mt-2 max-w-xl text-center text-lg leading-8 text-gray-300">
-            Keep pace with SecureCloud 
+            Keep pace with MindLeaf 
             advancements! Join our mailing list for selective, noteworthy updates.
         </p>
 
@@ -36,6 +38,7 @@ export function NewsLatter() {
 
     </div>
 </div>
+            <Footer />
         </div>
     )
 }
