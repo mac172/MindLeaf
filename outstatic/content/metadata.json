@@ -1,6 +1,6 @@
 {
-  "commit": "6f1cf9c08083fa9cdd49bc3c9f4a7f36bef41919",
-  "generated": "Sun, 14 Apr 2024 07:48:20 GMT",
+  "commit": "8fd4c216c8d0d1c87d3a99b23de9b1676a977853",
+  "generated": "2024-04-14T08:01:29.876Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "hello-java",
       "status": "published",
       "title": "Hello, Java"
+    },
+    {
+      "__outstatic": {
+        "commit": "8fd4c216c8d0d1c87d3a99b23de9b1676a977853",
+        "hash": "2886681765",
+        "path": "outstatic/content/python/python-function.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/94794314?v=4"
+      },
+      "collection": "python",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-14T08:33:42.942Z",
+      "slug": "python-function",
+      "status": "draft",
+      "title": "Python Function"
     }
   ]
 }
